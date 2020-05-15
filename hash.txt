@@ -1,0 +1,17 @@
+1,Industrial,7
+1,Quimica,4
+1,CS,9
+1,Mecanica,7
+1,Mecanica,4
+1,CS,9
+1,Ambiental,7
+1,BIO,9
+1,Quimica,4
+1,Industrial,7
+6,Quimica,4
+23,Bio,6
+1,Energia,5
+1,Energia,7
+70,Ambiental,7
+80,Civil,9
+56,Industrial,3
